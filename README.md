@@ -14,12 +14,20 @@ Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + A
 
 🛠️ Hardware Requirements
 
-Any KMK-compatible microcontroller (RP2040, Xiao, QT Py, etc.)
+1. Any KMK-compatible microcontroller (RP2040, Xiao, QT Py, etc.)
 
-4 × momentary switches
+2. 4 × momentary switches
 
-Wires / PCB
+3. Wires / PCB
 
-USB cable
+4. USB cable
 
-And your blessed fingers
+5. And your blessed fingers
+
+Images of models and cad ---------->
+
+![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223016.png)
+![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223125.png)
+![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223203.png)
+![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223334.png)
+![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223400.png)
