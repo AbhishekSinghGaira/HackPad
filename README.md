@@ -1,6 +1,5 @@
 # HackPad
 A tiny 4-key macropad that turns you into a productivity monster.
-
 This project is a 4-button productivity macropad powered by KMK Firmware.
 Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + App Switch.
 
@@ -14,17 +13,20 @@ Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + A
 
 💾 Save + App Switch (Ctrl+S → Alt+Tab)
 
-#🛠️ Hardware Requirements
+🛠️ Hardware Requirements
 
-1. Any KMK-compatible microcontroller (RP2040, Xiao, QT Py, etc.)
+1. Seeed XIAO RP2040
 
-2. 4 × momentary switches
+2. Through-hole 1N4148 Diodes (Max 20x)
 
-3. Wires / PCB
+3. MX-Style switches (Max 16x)
 
-4. USB cable
+4. EC11 Rotary encoders (Max 2x)
+5.  M3x16mm screws
+6.  3D PRINTED CASE 
+7. SK6812 MINI-E LEDs
 
-5. And your blessed fingers
+8. And your blessed fingers
 
 Images of models and cad ---------->
 
