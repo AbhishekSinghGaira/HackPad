@@ -4,6 +4,8 @@ A tiny 4-key macropad that turns you into a productivity monster.
 This project is a 4-button productivity macropad powered by KMK Firmware.
 Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + App Switch.
 
+
+#Features
 ⚡ One-tap Copy
 
 ⚡ One-tap Paste
@@ -12,7 +14,7 @@ Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + A
 
 💾 Save + App Switch (Ctrl+S → Alt+Tab)
 
-🛠️ Hardware Requirements
+#🛠️ Hardware Requirements
 
 1. Any KMK-compatible microcontroller (RP2040, Xiao, QT Py, etc.)
 
