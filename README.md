@@ -1,5 +1,5 @@
 # HackPad
-A tiny 4-key macropad that turns you into a productivity monster.
+A  4-key macropad that helps you to become a productivity monster.
 This project is a 4-button productivity macropad powered by KMK Firmware.
 Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + App Switch.
 
