@@ -31,7 +31,7 @@ Hardware Requirements
 
 Images of models and cad ---------->
 
-![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223016.png)
+![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-05%20233116.png)
 ![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223125.png)
 ![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223203.png)
 ![image alt](https://github.com/AbhishekSinghGaira/HackPad/blob/main/jj/Screenshot%202025-12-04%20223334.png)
