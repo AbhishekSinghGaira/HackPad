@@ -4,16 +4,17 @@ This project is a 4-button productivity macropad powered by KMK Firmware.
 Each button triggers a powerful shortcut: Copy, Paste, Quick Notes, and Save + App Switch.
 
 
-#Features
-⚡ One-tap Copy
+Features
 
-⚡ One-tap Paste
+1. One-tap Copy
 
-📝 Quick Note text macro
+2. One-tap Paste
 
-💾 Save + App Switch (Ctrl+S → Alt+Tab)
+3. Quick Note text macro
 
-🛠️ Hardware Requirements
+4. Save + App Switch (Ctrl+S → Alt+Tab)
+
+Hardware Requirements
 
 1. Seeed XIAO RP2040
 
